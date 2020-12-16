@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\ic0063\Desktop\Automation\Automation Example\.metadata\.plugins\org.eclipse.jdt.core
+464739396.index
+4088832729.index
