@@ -10,7 +10,8 @@ public class GitDemo2 {
 			
 			System.out.println("Automation");
 			System.out.println("Testing");
-			
+			System.out.println("Learning");
+			System.out.println("Selenium");
 		}
 
 	}
